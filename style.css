@@ -108,11 +108,12 @@ nav ul li a {
 
 .img-section {
     margin: 20px;
+    margin-top: 20px;
 
 }
 
-.img-section img {
-    border-radius: 50px;
+.img-section video {
+    border-radius: 70px;
 }
 
 .Text-section {
@@ -164,7 +165,7 @@ nav ul li a {
 
 }
 
-.img-section2 img {
+.img-section2 video {
     border-radius: 50px;
 }
 
@@ -215,7 +216,7 @@ nav ul li a {
 
 }
 
-.img-section3 img {
+.img-section3 video {
     border-radius: 50px;
 }
 
@@ -247,6 +248,7 @@ nav ul li a {
 .title-logo {
     margin-top: 15%;
     margin-bottom: 15%;
+    
 }
 
 /* <!-- __________Section-5_____________ --> */
@@ -272,7 +274,7 @@ nav ul li a {
 
 }
 
-.img-section4 img {
+.img-section4 video {
     border-radius: 50px;
 }
 
@@ -322,7 +324,7 @@ nav ul li a {
 
 }
 
-.img-section5 img {
+.img-section5 video {
     border-radius: 50px;
 }
 
@@ -374,7 +376,7 @@ nav ul li a {
 
 }
 
-.img-section6 img {
+.img-section6 video {
     border-radius: 50px;
 }
 
@@ -455,7 +457,7 @@ nav ul li a {
     justify-content: center;
     /* margin: 20px; */
     gap: 60px;
-    padding: 20px;
+    /* padding: 20px; */
 
 }
 
